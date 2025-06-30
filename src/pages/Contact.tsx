@@ -49,8 +49,8 @@ const Contact = () => {
     {
       icon: <Mail className="w-6 h-6" />,
       title: "Email",
-      details: ["qcs.qcs.lda@gmail.com"],
-      action: "mailto:qcs.qcs.lda@gmail.com"
+      details: ["info@gcs-lda.com"],
+      action: "mailto:info@gcs-lda.com"
     },
     {
       icon: <MapPin className="w-6 h-6" />,
@@ -290,10 +290,10 @@ const Contact = () => {
                     Ligar: +258 82 768 9370
                   </a>
                   <a
-                    href="mailto:qcs.qcs.lda@gmail.com"
+                    href="mailto:info@gcs-lda.com"
                     className="block bg-white/20 hover:bg-white/30 text-white px-6 py-4 rounded-lg font-semibold transition-colors duration-200 text-center"
                   >
-                    Email: qcs.qcs.lda@gmail.com
+                    Email: info@gcs-lda.com
                   </a>
                 </div>
               </div>

@@ -32,7 +32,7 @@ const Header = () => {
               </div>
               <div className="flex items-center space-x-2">
                 <Mail size={14} />
-                <span>qcs.qcs.lda@gmail.com</span>
+                <span>info@gcs-lda.com</span>
               </div>
             </div>
             <div className="hidden md:block">
@@ -50,7 +50,7 @@ const Header = () => {
               <span className="text-white font-bold text-xl">G</span>
             </div>
             <div>
-              <h1 className="text-xl font-bold text-gray-900">Gym Comércio & Serviços</h1>
+              <h1 className="text-xl font-bold text-gray-900">GCS, Lda</h1>
               <p className="text-sm text-gray-600">Soluções em TI</p>
             </div>
           </Link>

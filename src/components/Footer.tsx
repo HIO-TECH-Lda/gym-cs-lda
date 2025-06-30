@@ -14,8 +14,8 @@ const Footer = () => {
                 <span className="text-white font-bold">G</span>
               </div>
               <div>
-                <h3 className="text-lg font-bold">Gym Comércio & Serviços</h3>
-                <p className="text-sm text-gray-400">Soluções em TI</p>
+                <h3 className="text-lg font-bold">GCS</h3>
+                <p className="text-sm text-gray-400">Gym Comércio & Serviços - Soluções em TI</p>
               </div>
             </div>
             <p className="text-gray-400 text-sm mb-4">
@@ -50,7 +50,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center space-x-3">
                 <Mail size={16} className="text-blue-400" />
-                <span className="text-sm">qcs.qcs.lda@gmail.com</span>
+                <span className="text-sm">info@gcs-lda.com</span>
               </li>
               <li className="flex items-start space-x-3">
                 <MapPin size={16} className="text-blue-400 mt-1" />
@@ -83,7 +83,10 @@ const Footer = () => {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-sm text-gray-400">
-            © 2024 Gym Comércio & Serviços, Lda. Todos os direitos reservados.
+            © 2024 GCS, Lda. Todos os direitos reservados.
+          </p>
+          <p className="text-xs text-gray-500 mt-2">
+            Desenvolvido por: <a href="https://hiotech.co" target="_blank" rel="noopener noreferrer" className="text-blue-400 hover:underline">Hio Tech, Lda</a>
           </p>
         </div>
       </div>

@@ -94,7 +94,7 @@ const Home = () => {
       <section className="py-16 bg-gray-50">
         <div className="container mx-auto px-4">
           <div className="text-center mb-12">
-            <h2 className="text-3xl font-bold text-gray-900 mb-4">Por que escolher a Gym?</h2>
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">Por que escolher a GCS?</h2>
             <p className="text-xl text-gray-600">Nossos diferenciais competitivos</p>
           </div>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
@@ -154,7 +154,7 @@ const Home = () => {
               WhatsApp
             </a>
             <a
-              href="mailto:qcs.qcs.lda@gmail.com"
+              href="mailto:info@gcs-lda.com"
               className="bg-blue-600 hover:bg-blue-700 text-white px-8 py-4 rounded-lg font-semibold transition-colors duration-200"
             >
               Email

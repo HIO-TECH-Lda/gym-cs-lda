@@ -34,7 +34,7 @@ const About = () => {
         <div className="container mx-auto px-4">
           <div className="text-center">
             <h1 className="text-4xl lg:text-6xl font-bold mb-6">
-              Sobre a <span className="text-blue-300">Gym</span>
+              Sobre a <span className="text-blue-300">GCS</span>
             </h1>
             <p className="text-xl text-blue-100 max-w-3xl mx-auto">
               Uma empresa 100% moçambicana especializada em soluções de tecnologia 
@@ -51,7 +51,7 @@ const About = () => {
             <div>
               <h2 className="text-3xl font-bold text-gray-900 mb-6">Quem Somos</h2>
               <p className="text-lg text-gray-600 mb-6">
-                A Gym Comércio & Serviços é uma empresa 100% moçambicana especializada 
+                A GCS é uma empresa 100% moçambicana especializada 
                 em soluções de tecnologia da informação e infraestrutura de TI. 
                 Estabelecida com o objetivo de fornecer soluções tecnológicas de ponta 
                 para empresas em Moçambique.
@@ -73,7 +73,7 @@ const About = () => {
             <div>
               <img
                 src="https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=800"
-                alt="Equipe da Gym Comércio & Serviços"
+                alt="Equipe da GCS"
                 className="rounded-2xl shadow-lg w-full h-96 object-cover"
               />
             </div>

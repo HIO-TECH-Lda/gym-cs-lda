@@ -189,7 +189,7 @@ const Services = () => {
               WhatsApp
             </a>
             <a
-              href="mailto:qcs.qcs.lda@gmail.com"
+              href="mailto:info@gcs-lda.com"
               className="bg-white text-blue-600 hover:bg-gray-100 px-8 py-4 rounded-lg font-semibold transition-colors duration-200"
             >
               Email

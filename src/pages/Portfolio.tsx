@@ -45,19 +45,19 @@ const Portfolio = () => {
     {
       name: "Ana Silva",
       company: "Empresa de Logística Maputo",
-      text: "A Gym instalou nossa rede corporativa com eficiência excepcional. O projeto foi entregue no prazo e funcionou perfeitamente desde o primeiro dia.",
+      text: "A GCS instalou nossa rede corporativa com eficiência excepcional. O projeto foi entregue no prazo e funcionou perfeitamente desde o primeiro dia.",
       rating: 5
     },
     {
       name: "Dr. João Macamo",
       company: "Hospital Privado Central",
-      text: "Confiamos nosso data center crítico à Gym e não poderíamos estar mais satisfeitos. O suporte 24/7 nos dá total tranquilidade.",
+      text: "Confiamos nosso data center crítico à GCS e não poderíamos estar mais satisfeitos. O suporte 24/7 nos dá total tranquilidade.",
       rating: 5
     },
     {
       name: "Carla Bento",
       company: "Escritório Jurídico Associados",
-      text: "O sistema VoIP implementado pela Gym revolucionou nossa comunicação interna e com clientes. Excelente custo-benefício.",
+      text: "O sistema VoIP implementado pela GCS revolucionou nossa comunicação interna e com clientes. Excelente custo-benefício.",
       rating: 5
     },
     {
@@ -224,7 +224,7 @@ const Portfolio = () => {
               WhatsApp
             </a>
             <a
-              href="mailto:qcs.qcs.lda@gmail.com"
+              href="mailto:info@gcs-lda.com"
               className="bg-white text-blue-600 hover:bg-gray-100 px-8 py-4 rounded-lg font-semibold transition-colors duration-200"
             >
               Solicitar Orçamento
